@@ -13,3 +13,6 @@ Welcome to the Foodie-Blog repository! This project is a blog dedicated to all t
 - `about.html`: Contains information about the blog and its purpose.
 - `contact.html`: A page for visitors to get in touch with the blog authors.
 - `index.html`: The main landing page of the blog.
+
+##Azure Link
+Link: https://gray-island-08e606310.3.azurestaticapps.net/index.html
