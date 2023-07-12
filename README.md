@@ -15,4 +15,5 @@ Welcome to the Foodie-Blog repository! This project is a blog dedicated to all t
 - `index.html`: The main landing page of the blog.
 
 ##Azure Link
-Link: https://gray-island-08e606310.3.azurestaticapps.net/index.html
+Link: https://gray-island-08e606310.3.azurestaticapps.net
+
