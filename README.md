@@ -14,6 +14,6 @@ Welcome to the Foodie-Blog repository! This project is a blog dedicated to all t
 - `contact.html`: A page for visitors to get in touch with the blog authors.
 - `index.html`: The main landing page of the blog.
 
-##Azure Link
+## Azure Link
 Link: https://proud-pond-062ea3910.3.azurestaticapps.net
 
